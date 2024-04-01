@@ -5,6 +5,8 @@
 - 📫 How to reach me @ my email address kennedyajana@gmail.com
 - 😄 Pronouns: personal
 - ⚡ Fun fact: A cat has nine lives
+- I live in Lexington Kentucky
+- My favourite past time is data analysis
 
 <!---
 KennedyAjana/KennedyAjana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
